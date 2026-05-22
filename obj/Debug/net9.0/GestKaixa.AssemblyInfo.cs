@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestKaixa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa45fdb8c3ce2b90c76d8f8e7b03835737a86ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea2e8ff1ea6098d7abb28468c421b584dd54ec64")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestKaixa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestKaixa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
